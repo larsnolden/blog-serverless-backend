@@ -1,0 +1,8 @@
+{
+  "body": "{\"dateCreated\":\"2n August\",\"name\":\"hello\",\"content\":\"nothing\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
